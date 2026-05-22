@@ -1,0 +1,54 @@
+<svg width="520" height="150" viewBox="0 0 520 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <g transform="rotate(-3 260 75)">
+
+    <!-- Main Label -->
+    <path
+      d="M20 28
+         L482 14
+         L504 36
+         L492 118
+         L34 132
+         L12 104
+         L18 48 Z"
+      fill="#FF4FA3"
+      stroke="black"
+      stroke-width="8"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+    />
+
+    <!-- Comic Texture -->
+    <path
+      d="M34 40
+         L470 28
+         L484 42
+         L474 104
+         L48 118
+         L28 96
+         L32 56 Z"
+      stroke="#FF9CCB"
+      stroke-width="2.5"
+      stroke-dasharray="8 6"
+      opacity="0.45"
+    />
+
+    <!-- Typography -->
+    <text
+      x="44"
+      y="88"
+      fill="white"
+      font-size="38"
+      font-family="Impact, Bangers, Arial Black, sans-serif"
+      font-weight="900"
+      letter-spacing="1.5"
+      stroke="black"
+      stroke-width="2"
+      paint-order="stroke"
+    >
+      FEATURED PROJECTS
+    </text>
+
+  </g>
+
+</svg>

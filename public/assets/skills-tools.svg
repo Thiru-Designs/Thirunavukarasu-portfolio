@@ -1,0 +1,54 @@
+<svg width="500" height="150" viewBox="0 0 500 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <g transform="rotate(-3 250 75)">
+
+    <!-- Sticker Base -->
+    <path
+      d="M18 28
+         L462 14
+         L484 36
+         L472 118
+         L34 132
+         L10 102
+         L16 48 Z"
+      fill="#27D9FF"
+      stroke="black"
+      stroke-width="8"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+    />
+
+    <!-- Handmade Texture -->
+    <path
+      d="M34 40
+         L450 28
+         L464 42
+         L454 104
+         L48 118
+         L28 94
+         L32 58 Z"
+      stroke="#A7F1FF"
+      stroke-width="2.5"
+      stroke-dasharray="8 6"
+      opacity="0.45"
+    />
+
+    <!-- Typography -->
+    <text
+      x="42"
+      y="88"
+      fill="white"
+      font-size="38"
+      font-family="Impact, Bangers, Arial Black, sans-serif"
+      font-weight="900"
+      letter-spacing="1.5"
+      stroke="black"
+      stroke-width="2"
+      paint-order="stroke"
+    >
+      SKILLS &amp; TOOLS
+    </text>
+
+  </g>
+
+</svg>

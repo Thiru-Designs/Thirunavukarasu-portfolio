@@ -1,0 +1,40 @@
+<svg width="220" height="180" viewBox="0 0 220 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <path
+    d="
+      M24 142
+      C48 88, 102 42, 168 46
+      C184 48, 194 56, 198 70
+    "
+    stroke="white"
+    stroke-width="8"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+
+  <path
+    d="
+      M28 148
+      C52 94, 106 48, 170 52
+      C186 54, 194 60, 196 74
+    "
+    stroke="#EDEDED"
+    stroke-width="3"
+    stroke-linecap="round"
+    stroke-dasharray="7 6"
+    opacity="0.45"
+  />
+
+  <path
+    d="
+      M176 44
+      L204 54
+      L186 78
+    "
+    stroke="white"
+    stroke-width="8"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+
+</svg>

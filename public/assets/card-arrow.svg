@@ -1,0 +1,39 @@
+<svg width="160" height="160" viewBox="0 0 160 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <g transform="rotate(-8 80 80)">
+
+    <!-- Main Arrow -->
+    <path
+      d="M34 118
+         C52 96, 72 72, 116 34"
+      stroke="black"
+      stroke-width="10"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+    />
+
+    <!-- Arrow Head -->
+    <path
+      d="M86 34
+         L118 34
+         L118 66"
+      stroke="black"
+      stroke-width="10"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+    />
+
+    <!-- Handmade Texture -->
+    <path
+      d="M40 122
+         C56 100, 76 76, 116 40"
+      stroke="#222222"
+      stroke-width="3"
+      stroke-dasharray="7 5"
+      opacity="0.35"
+      stroke-linecap="round"
+    />
+
+  </g>
+
+</svg>

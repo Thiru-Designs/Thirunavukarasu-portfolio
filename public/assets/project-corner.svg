@@ -1,0 +1,56 @@
+<svg width="220" height="220" viewBox="0 0 220 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <g transform="rotate(-6 110 110)">
+
+    <!-- Comic Burst -->
+    <path
+      d="M12 94
+         L54 76
+         L34 28
+         L84 52
+         L96 6
+         L126 50
+         L172 18
+         L154 70
+         L208 62
+         L172 104
+         L214 138
+         L162 148
+         L182 202
+         L132 174
+         L110 216
+         L82 174
+         L34 194
+         L52 144
+         L8 128
+         L44 108
+         Z"
+      fill="black"
+      stroke="black"
+      stroke-width="6"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+    />
+
+    <!-- Rough Texture -->
+    <path
+      d="M30 98
+         L64 82
+         L48 42
+         L88 62
+         L98 24
+         L124 60
+         L162 34
+         L148 78
+         L190 72
+         L160 106"
+      stroke="#2A2A2A"
+      stroke-width="2"
+      stroke-dasharray="6 5"
+      opacity="0.35"
+      stroke-linecap="round"
+    />
+
+  </g>
+
+</svg>

@@ -1,0 +1,54 @@
+<svg width="420" height="140" viewBox="0 0 420 140" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <g transform="rotate(-4 210 70)">
+
+    <!-- Sticker Base -->
+    <path
+      d="M18 28
+         L384 16
+         L404 36
+         L394 112
+         L30 124
+         L10 98
+         L16 48 Z"
+      fill="#7A2DFF"
+      stroke="black"
+      stroke-width="8"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+    />
+
+    <!-- Inner Texture -->
+    <path
+      d="M30 40
+         L372 30
+         L386 44
+         L378 100
+         L44 112
+         L26 92
+         L30 56 Z"
+      stroke="#B28CFF"
+      stroke-width="2.5"
+      stroke-dasharray="8 6"
+      opacity="0.45"
+    />
+
+    <!-- Typography -->
+    <text
+      x="48"
+      y="86"
+      fill="white"
+      font-size="40"
+      font-family="Impact, Bangers, Arial Black, sans-serif"
+      font-weight="900"
+      letter-spacing="1.8"
+      stroke="black"
+      stroke-width="2"
+      paint-order="stroke"
+    >
+      EXPERIENCE
+    </text>
+
+  </g>
+
+</svg>

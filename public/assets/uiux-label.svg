@@ -1,0 +1,63 @@
+<svg width="430" height="130" viewBox="0 0 430 130" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g transform="rotate(-4 215 65)">
+
+    <path
+      d="M20 24
+         L395 12
+         L412 30
+         L404 102
+         L28 114
+         L12 92
+         L18 42 Z"
+      fill="#FFD429"
+      stroke="#000"
+      stroke-width="6"
+      stroke-linejoin="round"
+    />
+
+    <path
+      d="M28 30
+         L388 20
+         L396 34
+         L392 92
+         L34 104
+         L24 88
+         L26 46 Z"
+      stroke="#FFE97A"
+      stroke-width="2"
+      stroke-dasharray="7 5"
+      opacity="0.5"
+    />
+
+    <text
+      x="42"
+      y="76"
+      fill="black"
+      font-size="34"
+      font-family="Impact, Arial Black, sans-serif"
+      font-weight="900"
+      letter-spacing="1"
+    >
+      UI/UX DESIGNER
+    </text>
+
+    <g transform="translate(372 34) rotate(10)">
+      <path
+        d="M12 0
+           L15 10
+           L26 13
+           L15 16
+           L12 28
+           L9 16
+           L-2 13
+           L9 10
+           L12 0Z"
+        fill="white"
+        stroke="black"
+        stroke-width="3"
+        stroke-linejoin="round"
+      />
+    </g>
+
+  </g>
+</svg>

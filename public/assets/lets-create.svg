@@ -1,0 +1,71 @@
+<svg width="460" height="260" viewBox="0 0 460 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Yellow Doodle Rays -->
+  <g stroke="#FFD43B" stroke-width="8" stroke-linecap="round">
+
+    <line x1="92" y1="62" x2="62" y2="36"/>
+    <line x1="160" y1="28" x2="154" y2="0"/>
+    <line x1="248" y1="26" x2="262" y2="0"/>
+    <line x1="332" y1="52" x2="364" y2="28"/>
+    <line x1="388" y1="114" x2="430" y2="102"/>
+    <line x1="372" y1="196" x2="408" y2="224"/>
+    <line x1="272" y1="226" x2="284" y2="256"/>
+    <line x1="160" y1="228" x2="144" y2="258"/>
+    <line x1="82" y1="194" x2="46" y2="220"/>
+    <line x1="40" y1="118" x2="2" y2="110"/>
+
+  </g>
+
+  <!-- Cloud Shape -->
+  <path
+    d="
+      M110 188
+      Q58 188 58 142
+      Q58 102 96 96
+      Q102 46 156 46
+      Q184 12 236 28
+      Q276 8 314 34
+      Q368 34 382 84
+      Q426 92 426 142
+      Q426 188 372 188
+      Z
+    "
+    fill="white"
+    stroke="black"
+    stroke-width="8"
+    stroke-linejoin="round"
+  />
+
+  <!-- Comic Inner Texture -->
+  <path
+    d="
+      M102 172
+      Q72 172 72 142
+      Q72 112 100 108
+      Q112 62 158 62
+      Q186 38 230 48
+      Q272 28 304 50
+      Q352 52 366 94
+      Q410 100 410 140
+      Q410 172 364 172
+    "
+    stroke="#D9D9D9"
+    stroke-width="2"
+    stroke-dasharray="7 5"
+    opacity="0.5"
+  />
+
+  <!-- Text -->
+  <text
+    x="104"
+    y="142"
+    fill="black"
+    font-size="34"
+    font-family="Impact, Bangers, Arial Black, sans-serif"
+    font-weight="900"
+    letter-spacing="1.4"
+  >
+    LET'S CREATE!
+  </text>
+
+</svg>

@@ -1,0 +1,101 @@
+<svg width="430" height="250" viewBox="0 0 430 250" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <linearGradient id="purpleGradient" x1="0" y1="0" x2="430" y2="250" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#B14DFF"/>
+      <stop offset="1" stop-color="#6F1DFF"/>
+    </linearGradient>
+  </defs>
+
+  <g transform="rotate(-8 215 125)">
+
+    <!-- Pink Burst -->
+    <path
+      d="M214 8
+         L244 54
+         L304 28
+         L290 92
+         L356 98
+         L308 142
+         L366 192
+         L294 194
+         L308 242
+         L244 216
+         L214 246
+         L184 216
+         L118 242
+         L132 194
+         L60 192
+         L118 142
+         L72 98
+         L138 92
+         L124 28
+         L184 54 Z"
+      fill="#FF4DB8"
+      stroke="black"
+      stroke-width="7"
+      stroke-linejoin="round"
+    />
+
+    <!-- Sticker Shape -->
+    <path
+      d="M72 74
+         L342 62
+         L364 84
+         L354 172
+         L88 184
+         L60 158
+         L66 96 Z"
+      fill="url(#purpleGradient)"
+      stroke="black"
+      stroke-width="8"
+      stroke-linejoin="round"
+    />
+
+    <!-- Handmade Texture -->
+    <path
+      d="M84 86
+         L334 76
+         L346 90
+         L338 160
+         L98 170
+         L78 148
+         L82 106 Z"
+      stroke="#D8B4FF"
+      stroke-width="2"
+      stroke-dasharray="8 6"
+      opacity="0.45"
+    />
+
+    <!-- Text -->
+    <text
+      x="92"
+      y="128"
+      fill="white"
+      font-size="34"
+      font-family="Impact, Bangers, Arial Black, sans-serif"
+      font-weight="900"
+      letter-spacing="1.5"
+      stroke="black"
+      stroke-width="2"
+      paint-order="stroke"
+    >
+      FIGMA LOVER!
+    </text>
+
+    <!-- Heart -->
+    <path
+      d="M314 122
+         C314 110 328 106 334 116
+         C340 106 354 110 354 122
+         C354 138 334 152 334 152
+         C334 152 314 138 314 122Z"
+      fill="#FF69B4"
+      stroke="black"
+      stroke-width="3"
+      stroke-linejoin="round"
+    />
+
+  </g>
+
+</svg>

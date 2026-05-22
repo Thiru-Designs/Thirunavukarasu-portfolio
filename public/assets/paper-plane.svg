@@ -1,0 +1,44 @@
+<svg width="220" height="180" viewBox="0 0 220 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <g transform="rotate(-8 110 90)">
+
+    <!-- Main Plane -->
+    <path
+      d="M18 92
+         L198 24
+         L128 156
+         L108 104
+         Z"
+      stroke="white"
+      stroke-width="5"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+      fill="none"
+    />
+
+    <!-- Fold Line -->
+    <path
+      d="M108 104
+         L198 24"
+      stroke="white"
+      stroke-width="3"
+      stroke-linecap="round"
+      stroke-dasharray="6 5"
+      opacity="0.7"
+    />
+
+    <!-- Handmade Sketch Overlay -->
+    <path
+      d="M24 96
+         L194 28
+         L130 148"
+      stroke="#EDEDED"
+      stroke-width="2"
+      stroke-linecap="round"
+      stroke-dasharray="5 6"
+      opacity="0.4"
+    />
+
+  </g>
+
+</svg>

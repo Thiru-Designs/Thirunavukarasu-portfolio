@@ -1,0 +1,73 @@
+<svg width="430" height="240" viewBox="0 0 430 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <g transform="rotate(-6 215 120)">
+
+    <!-- Speech Bubble -->
+    <path
+      d="M48 54
+         Q48 24 78 24
+         L350 24
+         Q390 24 390 64
+         L390 138
+         Q390 178 350 178
+         L222 178
+         L172 214
+         L182 178
+         L78 178
+         Q48 178 48 148
+         Z"
+      fill="#FF4FA3"
+      stroke="black"
+      stroke-width="7"
+      stroke-linejoin="round"
+    />
+
+    <!-- Handmade Texture -->
+    <path
+      d="M64 42
+         L344 42
+         Q372 42 372 70
+         L372 132
+         Q372 160 344 160
+         L210 160
+         L178 184"
+      stroke="#FF9BCB"
+      stroke-width="2"
+      stroke-dasharray="7 5"
+      opacity="0.45"
+    />
+
+    <!-- Comic Text -->
+    <text
+      x="82"
+      y="112"
+      fill="white"
+      font-size="32"
+      font-family="Impact, Bangers, Arial Black, sans-serif"
+      font-weight="900"
+      letter-spacing="1.2"
+      stroke="black"
+      stroke-width="2"
+      paint-order="stroke"
+    >
+      OPEN FOR
+    </text>
+
+    <text
+      x="118"
+      y="148"
+      fill="white"
+      font-size="32"
+      font-family="Impact, Bangers, Arial Black, sans-serif"
+      font-weight="900"
+      letter-spacing="1.2"
+      stroke="black"
+      stroke-width="2"
+      paint-order="stroke"
+    >
+      WORK!
+    </text>
+
+  </g>
+
+</svg>
